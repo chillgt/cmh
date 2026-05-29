@@ -18,7 +18,7 @@ import random
 # CONFIG #
 class Config:
     # ===== BOT SETTINGS =====
-    TOKEN = "MTUwODU2NDgwMjY1NjY2NTY4MA.GZbnEB.BILIjL22s3_DAiB5LToFo36y4_Zf5JnZkBr7-w"  # Your bot token from Discord Developer Portal
+    TOKEN = "TOKEN"  # Your bot token from Discord Developer Portal
     PREFIX = "!"  # The prefix to use before commands (e.g. !nuke), you can also delete the prefix if you don't want one
     WHITELIST = [1504970327405629710]  # List of user IDs who can use the bot commands, don't give any ids if you want anyone to use bot.
 
